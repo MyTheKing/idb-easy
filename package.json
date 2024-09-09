@@ -1,6 +1,6 @@
 {
   "name": "idb-easy",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "一个简单易用的 IndexedDB 封装库，旨在简化数据库操作，使开发者能够方便地进行数据存储和检索。通过提供实例化的 API，可以轻松管理和操作 IndexedDB 数据库。",
   "keywords": [
     "joshua",
