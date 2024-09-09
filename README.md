@@ -4,13 +4,13 @@
 
 ## githup
 
-```http
+```web-idl
 https://github.com/MyTheKing/idb-easy.git
 ```
 
 ## 安装
 
-```
+```shell
 npm install idb-easy
 ```
 
