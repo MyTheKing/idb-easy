@@ -1,3 +1,13 @@
+## idb-easy 介绍
+
+一个简单易用的 IndexedDB 封装库，旨在简化数据库操作，使开发者能够方便地进行数据存储和检索。通过提供实例化的 API，可以轻松管理和操作 IndexedDB 数据库。
+
+## githup
+
+```http
+https://github.com/MyTheKing/idb-easy.git
+```
+
 ## 安装
 
 ```
