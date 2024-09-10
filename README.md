@@ -147,7 +147,9 @@ const update = () => {
 
 **`updateData(id,data,tableName)` 方法**：
 
-修改表中匹配主键的某一项。该方法返回一个 `Promise` 对象。
+- 修改表中匹配主键的某一项。该方法返回一个 `Promise` 对象。
+
+该方法需要传递三个值：
 
 - `id`：主键。
 - `data`：需要更改的数据。
